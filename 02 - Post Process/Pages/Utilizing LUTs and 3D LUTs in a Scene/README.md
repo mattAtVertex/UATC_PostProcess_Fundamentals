@@ -1,0 +1,6 @@
+# Utilizing LUTs and 3D LUTs in a Scene
+
+<p><img src="https://vertexschool.instructure.com/courses/317/files/21418/preview?verifier=vlQtLyhphy53tkCNV4hF0Mg4HSJrqpAgGKbTaKTh" alt="Artboard 30.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/317/files/21418" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/317/files/21419/preview?verifier=SMBRlviXUF8HjrcDJNX3mpBMvAadiCqPEc0Bap0x" alt="Artboard 31.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/317/files/21419" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/317/files/21420/preview?verifier=svXSZEVubo86AsAdCEjMGzU0CohoA88aPePQblnJ" alt="Artboard 32.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/317/files/21420" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/317/files/21421/preview?verifier=IA3cCQlSyXs3aNz43ZE1ZaVpfH65HUgUQF6l1Ppy" alt="Artboard 33.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/317/files/21421" data-api-returntype="File"></p>
